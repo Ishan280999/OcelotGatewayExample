@@ -1,0 +1,118 @@
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.json
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\ocelot.json
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.exe
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.deps.json
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.pdb
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Ocelot.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.AssemblyReference.cache
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfoInputs.cache
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfo.cs
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CoreCompileInputs.cache
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotGateway.styles.css
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CopyComplete
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.dll
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\refint\OcelotGateway.dll
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.pdb
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.genruntimeconfig.cache
+D:\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\ref\OcelotGateway.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.exe
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.deps.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.pdb
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.AssemblyReference.cache
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfoInputs.cache
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfo.cs
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CoreCompileInputs.cache
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotGateway.props
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotGateway.props
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotGateway.props
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotGateway.styles.css
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CopyComplete
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\refint\OcelotGateway.dll
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.pdb
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.genruntimeconfig.cache
+C:\Users\ishan\Desktop\RabbitMq\Chat Application\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\ref\OcelotGateway.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.exe
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.deps.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.runtimeconfig.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\OcelotGateway.pdb
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.AssemblyReference.cache
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfoInputs.cache
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.AssemblyInfo.cs
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CoreCompileInputs.cache
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotGateway.props
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotGateway.props
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotGateway.props
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotGateway.styles.css
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.csproj.CopyComplete
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\refint\OcelotGateway.dll
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.pdb
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\OcelotGateway.genruntimeconfig.cache
+C:\Users\ishan\Desktop\poc\OcelotGatewayExample\OcelotGateway\obj\Debug\net6.0\ref\OcelotGateway.dll
